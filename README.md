@@ -1,4 +1,7 @@
-# cyclic-decomposition
+# Cyclic Decomposition
 
 
-$`\sqrt{2}`$
+Calculates cyclic decomposition for elements of 
+```math
+SE = \frac{\sigma}{\sqrt{n}}
+```
