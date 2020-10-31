@@ -1,7 +1,4 @@
 # Cyclic Decomposition
 
 
-Calculates cyclic decomposition for elements of 
-```math
-SE = \frac{\sigma}{\sqrt{n}}
-```
+Calculates cyclic decomposition and order for elements of the symmetric group using DFS
